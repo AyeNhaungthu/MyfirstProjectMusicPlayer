@@ -160,34 +160,8 @@ autoCompleteTag.addEventListener("keyup", (event) => {
 
 
 /*
-const imgCollection = [
-    { },
-    { },
-    { },
-    { },
-    { },
-    { },
-    { }
-]
-    const changeImage = () => {
-        for( let j = 0; j < imgCollection.length; j++)
-            {
-               
-                const imgcount = imgCollection[j].imgId;
-               
-                imagetag.src = imgcount;
-                thumbnail.append(imagetag);
-            
-                
-            }
-        
-    }
- */
-/*
-const thumbnail = document.getElementsByClassName("thumbnail")[0];
-const imagetag = document.getElementsByClassName("imagetag")[0];
-const imageandTextContainer = document.getElementsByClassName("imageandTextContainer")[0];
- */
+Second Comment 
+*/
 
     
 
